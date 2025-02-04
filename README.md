@@ -1,6 +1,6 @@
 # iOS18.3-logs : iPhone 11 pro
-I Upgraded from 17.6 to 18.3 for a ression
-here's logs ( please do not use it against me)
+upgraded from 17.6 to 18.3 for a ression
+here's logs ( please do not use it against )
 
 ```
 23:45:06.692:  Firmware is unpacking
